@@ -8,3 +8,7 @@
 Testing header effects for learning purposes
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
